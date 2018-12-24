@@ -1,2 +1,2 @@
-# portfolio
-This will contain all projects of Data Science.
+# Data Science Portfolio
+This repository will contain description and link of repository of each project.
